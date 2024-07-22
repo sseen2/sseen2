@@ -1,6 +1,9 @@
 ## SSEEN2 🐥
+[![GitHub Streak](https://streak-stats.demolab.com?user=sseen2&theme=gruvbox-duo&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseen2)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseen2)](https://solved.ac/sseen2/) <!--![sseen2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseen2&show_icons=true&theme=merko)-->
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseen2)](https://solved.ac/sseen2/)
+<!--![sseen2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseen2&show_icons=true&theme=merko)-->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseen2&count_bg=%23FFA8A8E7&title_bg=%23FF8A8A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog Badge](http://img.shields.io/badge/Blog%20-000000.svg?style=flat-square&logo=tistory&link=https://sseen2.tistory.com/)](https://sseen2.tistory.com/)
