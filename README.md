@@ -6,8 +6,9 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sseen2)](https://solved.ac/sseen2/)
 <!--![sseen2's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseen2&show_icons=true&theme=merko)-->
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseen2&count_bg=%23FFA8A8E7&title_bg=%23FF8A8A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Blog Badge](http://img.shields.io/badge/Blog%20-000000.svg?style=flat-square&logo=tistory&link=https://sseen2.tistory.com/)](https://sseen2.tistory.com/)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsseen2&count_bg=%23FFA8A8E7&title_bg=%23FF8A8A&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **sseen2/sseen2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
