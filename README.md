@@ -1,4 +1,5 @@
-## SSEEN2 🐥
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A1A1&background=78787800&vCenter=true&width=435&lines=SSEEN2+%F0%9F%90%A5)](https://git.io/typing-svg)
+---
 [![GitHub Streak](https://streak-stats.demolab.com?user=sseen2&theme=gruvbox-duo&hide_border=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sseen2)](https://github.com/anuraghazra/github-readme-stats) 
 
